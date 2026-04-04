@@ -1,13 +1,13 @@
 # 🩺 Diabetes Prediction App
 
-A machine learning web application built with **Streamlit** that predicts whether a patient is **Diabetic or Not** based on medical input features — using the **Pima Indians Diabetes Dataset** and **Logistic Regression**.
+A machine learning web application built with **Streamlit** that predicts whether a patient is **Diabetic or Not** based on medical input features — using the **Diabetes Dataset** and **Logistic Regression**.
 
 ---
 
 ## 📸 App Preview
 
-> Enter patient data in the sidebar → Click **Predict Result** → See prediction with confidence score.
-https://diabeties-prediction-app-54qfilurbekvparrhtp95x.streamlit.app/
+> Enter patient data in the sidebar → Click **Predict Result** Streamlink → https://diabeties-prediction-app-54qfilurbekvparrhtp95x.streamlit.app/
+
 ---
 
 ## 📁 Project Structure
@@ -27,8 +27,8 @@ diabetes-prediction-app/
 
 ## 📊 Dataset
 
-- **Name:** Pima Indians Diabetes Dataset
-- **Source:** [UCI Machine Learning Repository](https://raw.githubusercontent.com/jbrownlee/Datasets/master/pima-indians-diabetes.data.csv)
+- **Name:** Diabetes Dataset
+- **Source:** [https://www.kaggle.com/datasets/mathchi/diabetes-data-set]
 - **Samples:** 768 patients
 - **Features:** 8 medical attributes
 - **Target:** `0` = No Diabetes, `1` = Diabetes
@@ -130,25 +130,3 @@ Prediction + Confidence Score
 2. Input is scaled using the saved `scaler.pkl`
 3. Scaled input is passed to `model.pkl` for prediction
 4. App displays: **Diabetic / Not Diabetic** + probability percentages
-
----
-
-## ⚠️ Disclaimer
-
-> This application is for **educational purposes only**.
-> It is **not** a substitute for professional medical advice, diagnosis, or treatment.
-> Always consult a qualified healthcare provider.
-
----
-
-## 👤 Author
-
-**Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-"# Diabeties-prediction" 
