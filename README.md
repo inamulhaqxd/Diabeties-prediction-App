@@ -6,7 +6,7 @@ A machine learning web application built with **Streamlit** that predicts whethe
 
 ## 📸 App Preview
 
-> Enter patient data in the sidebar → Click **Predict Result** Streamlink → https://diabeties-prediction-app-54qfilurbekvparrhtp95x.streamlit.app/
+**Streamlink** → https://diabeties-prediction-app-54qfilurbekvparrhtp95x.streamlit.app/
 
 ---
 
